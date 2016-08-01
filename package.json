@@ -1,0 +1,26 @@
+{
+  "name": "invitation",
+  "version": "1.0.0",
+  "description": "descriptionskee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Price <hello@robertprice.com.au> (http://robertprice.com.au/)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "wedding",
+    "romance",
+    "romantic"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertpriceau/invitation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robertpriceau/invitation/issues"
+  },
+  "homepage": "https://github.com/robertpriceau/invitation#readme"
+}
